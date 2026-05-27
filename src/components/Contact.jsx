@@ -184,14 +184,14 @@ export default function Contact() {
                 <div className="cl-icon cl-green">💬</div>
                 <div className="cl-text">
                   <div className="cl-label">WhatsApp</div>
-                  <div className="cl-value">+1 (234) 567-8901</div>
+                  <div className="cl-value">+234 36536385</div>
                 </div>
               </a>
               <a href="https://instagram.com/aelionstudio" className="contact-link" target="_blank" rel="noreferrer">
                 <div className="cl-icon cl-pink">📸</div>
                 <div className="cl-text">
                   <div className="cl-label">Instagram</div>
-                  <div className="cl-value">@aelionstudio</div>
+                  <div className="cl-value">@aelionweb3studio</div>
                 </div>
               </a>
               <a href="https://t.me/aelionstudio" className="contact-link" target="_blank" rel="noreferrer">
